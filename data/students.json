@@ -1,5 +1,5 @@
 [
- {
+  {
     "Marca temporal": "",
     "No. Control": 23309060760001,
     "Apellido Paterno": "AGUILAR",
@@ -9470,37 +9470,12 @@
     "Carrera": "radiología e imagen"
   },
   {
-    "Marca temporal": "2026-03-01T00:26:54.000Z",
+    "Marca temporal": "",
     "No. Control": 25309060760808,
     "Apellido Paterno": "PERALTA",
     "Apellido Materno": "RAMIREZ",
     "Nombre(s)": "MARISOL",
     "Grupo": "2C",
-    "Turno": "vespertino",
-    "Carrera": "radiología e imagen"
-  },
-
-
-
-
-
-  {
-    "Marca temporal": "2026-03-01T00:26:54.000Z",
-    "No. Control": 12345678910000,
-    "Apellido Paterno": "Alumno",
-    "Apellido Materno": "Apellido",
-    "Nombre(s)": "Prueba",
-    "Grupo": "10B",
-    "Turno": "vespertino",
-    "Carrera": "enfermería general"
-  },
-  {
-    "Marca temporal": "2026-03-01T00:26:54.000Z",
-    "No. Control": 12345678910001,
-    "Apellido Paterno": "Alumno2",
-    "Apellido Materno": "Apellido2",
-    "Nombre(s)": "Prueba2",
-    "Grupo": "10C",
     "Turno": "vespertino",
     "Carrera": "radiología e imagen"
   }
